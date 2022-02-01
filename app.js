@@ -80,6 +80,7 @@ app.get("/jedi/:name", (req, res) => {
                 <li class="list-group-item">BIRTH YEAR: ${jediInfo.birth_year}</li>
                 <li class="list-group-item" style=" text-transform: capitalize;">BLOOD COLOR: ${jediInfo.eye_color}</li>
                 <li>
+                <h1>Chuck Norris Is A Star War</h1>
                 <p>
                 Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out. When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris CNN was originally created as the "Chuck Norris Network" to update Americans with on-the-spot ass kicking in real-time.
 
